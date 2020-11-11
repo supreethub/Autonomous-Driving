@@ -8,4 +8,5 @@ supreeth_betigeri.py contains the basic functions we'll need. First we'll need t
 ## Evaluation 
 The code will be evaluated using evaluate.py. Performance will be evaluated by comparing your predicted steering angles to human steering angles: The performance metric is called a Root Mean Squared Error (RMSE)
 
-#Data: Download training data at : www.welchlabs.io/unccv/autonomous_driving/data/training.zip
+# Data:
+Download training data at : www.welchlabs.io/unccv/autonomous_driving/data/training.zip
